@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckOutCheckIn", "CheckOutCheckIn\CheckOutCheckIn.csproj", "{95F5D860-B3A2-4860-B59E-F1038AA648EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95F5D860-B3A2-4860-B59E-F1038AA648EB}.Debug|x86.ActiveCfg = Debug|x86
+		{95F5D860-B3A2-4860-B59E-F1038AA648EB}.Debug|x86.Build.0 = Debug|x86
+		{95F5D860-B3A2-4860-B59E-F1038AA648EB}.Release|x86.ActiveCfg = Release|x86
+		{95F5D860-B3A2-4860-B59E-F1038AA648EB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

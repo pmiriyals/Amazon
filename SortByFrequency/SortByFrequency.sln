@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortByFrequency", "SortByFrequency\SortByFrequency.csproj", "{AC069A4E-6F8E-4FBB-AEAA-8298A80045FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC069A4E-6F8E-4FBB-AEAA-8298A80045FE}.Debug|x86.ActiveCfg = Debug|x86
+		{AC069A4E-6F8E-4FBB-AEAA-8298A80045FE}.Debug|x86.Build.0 = Debug|x86
+		{AC069A4E-6F8E-4FBB-AEAA-8298A80045FE}.Release|x86.ActiveCfg = Release|x86
+		{AC069A4E-6F8E-4FBB-AEAA-8298A80045FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
